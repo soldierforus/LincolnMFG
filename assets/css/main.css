@@ -43,6 +43,10 @@
 		-webkit-text-size-adjust: none;
 	}
 
+	#tele {
+	font-size: 53px;
+	padding-top:10px;
+	}
 /* Box Model */
 
 	*, *:before, *:after {
@@ -181,7 +185,10 @@
 		.container {
 			width: 100%;
 		}
-
+    #tele {
+		font-size: 40px;
+		padding-top:10px;
+		}
 	}
 
 /* Grid */
